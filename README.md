@@ -1,4 +1,4 @@
-数字签名——小组作业短群签名 JPBC-BBS04
+数字签名——小组作业短群签名 JPBC-BBS04 和 MUO代理签名
 
 特别感谢[hl-tang/JPBC-BBS04: Using JPBC(Java Pairing-Based Cryptography Library) to implement pairing-based cryptography algorithm like BBS04 group signature. And I proposed a modification of batch verification to the original BBS04.](https://github.com/hl-tang/JPBC-BBS04) ！
 
